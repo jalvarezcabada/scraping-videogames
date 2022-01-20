@@ -24,6 +24,6 @@
 
   ## Autor
 
-  * **Joaquin Alvarez** - [jalvarezcabada](https://github.com/jalvarezcabada)
+  - Joaquin Alvarez Cabada - [jalvarezcabada](https://github.com/jalvarezcabada)
 </p>
 <div align="center">
