@@ -1,0 +1,23 @@
+sites:
+  web_videogames:
+    url_web: <<web>>
+    requests:
+      url_scrap: '<<web>>&id_plat='
+    platforms_type:
+      - '1'
+      - '40'
+      - '37'
+      - '42'
+      - '38'
+      - '41'
+      - '34'
+      - '2'
+      - '4'
+      - '35'
+      - '3'
+      - '36'
+      - '6'
+      - '5'
+      - '9'
+      - '32'
+      - '43'
