@@ -17,7 +17,7 @@ from pymongo import UpdateOne
 class TopPopularity:
 
     """
-    Clase encargada de screapear el TOP 100 de juegos mas populares de cada una de las plataformas.
+    Clase encargada de scrapear el TOP 100 de juegos mas populares de cada una de las plataformas.
 
     Parametros:
         - location: nos determina en que entorno vamos a trabajar (local/server)
