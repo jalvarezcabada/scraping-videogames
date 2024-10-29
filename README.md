@@ -1,29 +1,29 @@
 <div align="center">
-  <h1>Detalle del Proyecto</h1>
+  <h1>Project Overview</h1>
 </div>
 <br>
 <p>
 
-  ## Objetivo 
-   - Crear scraping para obtener metadatos sobre videojuegos y almacenarlos en MongoDB.
+## Objective
+   - Create a web scraper to gather metadata about video games and store it in MongoDB.
 
-  ## Lenguaje de Desarrollo 
+## Development Language
    - Python
 
-  ## Librerias 
-  - Se utilizo requests, beautifulsoup y selenium para generar scraping, pymongo y sshtunnel para almacenar datos en servidor remoto.
+## Libraries
+   - Used `requests`, `beautifulsoup`, and `selenium` for scraping; `pymongo` and `sshtunnel` for storing data on a remote server.
 
-  ## Otras Librerias
-  - datetime, pprint, re, os, json, argparse, yaml, pathlib.
+## Additional Libraries
+   - Includes `datetime`, `pprint`, `re`, `os`, `json`, `argparse`, `yaml`, and `pathlib`.
 
-  ## Almacenamiento 
-  - Base de datos NO-SQL Mongodb corriendo sobre contenedor Docker.
+## Storage
+   - Data is stored in a NoSQL MongoDB database running in a Docker container.
 
-  ## Automatizacion
-  - La misma se realizo por medio de DAGs en Apache Airflow.
+## Automation
+   - Orchestrated using DAGs in Apache Airflow.
 
-  ## Autor
+## Author
 
-  - Joaquin Alvarez Cabada - [jalvarezcabada](https://github.com/jalvarezcabada)
+   - Joaquin Alvarez Cabada - [jalvarezcabada](https://github.com/jalvarezcabada)
 </p>
 <div align="center">
